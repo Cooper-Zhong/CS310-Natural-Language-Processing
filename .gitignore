@@ -167,3 +167,4 @@ log/
 
 Assignment/A3/data/glove.6B.100d.txt
 Lab/lab5_rnn/data/glove.6B.100d.txt
+Lab/lab9_bert/bert-base-uncased/
